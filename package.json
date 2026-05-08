@@ -4,6 +4,7 @@
   "private": true,
   "description": "Scaffold-only placeholder repo. Real game code goes under src/ when development starts. The test+typecheck setup below exists so the dispatcher fleet's local-task cycles pass cleanly until then.",
   "scripts": {
-    "test": "echo \"no tests yet — placeholder package.json\" && exit 0"
+    "test": "echo \"no tests yet — placeholder package.json\" && exit 0",
+    "typecheck": "echo \"no typecheck yet — placeholder package.json\" && exit 0"
   }
 }
